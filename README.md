@@ -25,5 +25,3 @@ Well well, being a subset of `nc` myself (with a history of making complex progr
 5. Created the default `GenerateAnswer` and `GenerateSearchQuery` `Signature`s for Rag (Never used the `GenerateSearchQuery` for being a noob myself 😝)
 6. Created a `markdown` file that has the data I am doing `RAG` on (in a later example I will show you how to do rag on web search data)
 
-
-## So let's jump into the project!!!
